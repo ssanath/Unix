@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gcc -o echoall1 echoall1.c
+./echoall1 "$@"
